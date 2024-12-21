@@ -15,10 +15,6 @@ import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
-/**
- *
- * @author RayaThawabe
- */
 class Board extends JPanel {
     public int distance = 0;
 
