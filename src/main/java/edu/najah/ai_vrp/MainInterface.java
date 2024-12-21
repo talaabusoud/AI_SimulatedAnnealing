@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.najah.ai_tsp;
+package edu.najah.ai_vrp;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
